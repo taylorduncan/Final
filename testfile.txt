@@ -3,7 +3,7 @@ if(count = 3){
 	while((a !< b)){
 	x = x + 1; 
 	}
-	count = 2;
+	count = x/2;
 	isbool = false;
 }
 count = 2 * (b - 1) - 1 ;
