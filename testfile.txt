@@ -1,6 +1,6 @@
 if(count = 3){ 
 	test = 4
-	if (a !< b){
+	while((a !< b)){
 	x = x + 1; 
 	}
 	count = 2;
