@@ -2,8 +2,10 @@
 PLC Final Test 
 my path to file: "/Users/Alexandria/Documents/Fall2022/TestFinal/src/TestFinal/testfile.txt"
 /* RULES 
+		
+		
 		<start>	--> <program>
- * 		<program> --> <stmt>
+ 		<program> --> <stmt>
 		<program> --> <stmt> <program>
 		<stmt> --> <if_stmt> | <while_stmt> | <assign_stmt> | <block_stmt>
 		<block_stmt> (structure) --> ‘{‘ { <stmt> ‘;’ } ‘}’
